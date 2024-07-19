@@ -125,21 +125,8 @@ class Navbar extends Component {
 								</li>
 								</ul>
 							</li>
-							<li className="menu-icon"><Link to="/about">About</Link>
-								<ul>
-								<li><Link to="/about">About</Link></li>
-								<li><Link to="/service">Services</Link></li>
-								<li><Link to="/service-details">Service Details</Link></li>
-								<li><Link to="/portfolio">Portfolio</Link></li>
-								<li><Link to="/portfolio-v2">Portfolio - 02</Link></li>
-								<li><Link to="/portfolio-details">Portfolio Details</Link></li>
-								<li><Link to="/team">Team</Link></li>
-								<li><Link to="/team-details">Team Details</Link></li>
-								<li><Link to="/faq">FAQ</Link></li>
-								<li><Link to="/location">Google Map Locations</Link></li>
-								</ul>
-							</li>
-							<li className="menu-icon"><Link to="/shop">Shop</Link>
+							
+							<li className="menu-icon"><Link to="/shop">Property</Link>
 								<ul>
 									<li><Link to="/shop">Shop</Link></li>
 									<li><Link to="/shop-grid">Shop Grid</Link></li>
