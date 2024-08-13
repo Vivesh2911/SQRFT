@@ -27,7 +27,7 @@ class FeaturedItemV1 extends Component {
 			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/1.jpg"} alt="#" /></Link>
 			            <div className="product-badge">
 			              <ul>
-			                <li className="sale-badge bg-green">For Rent</li>
+			                <li className="sale-badge bg-green">For Sale</li>
 			              </ul>
 			            </div>
 			            <div className="product-img-location-gallery">
@@ -191,7 +191,7 @@ class FeaturedItemV1 extends Component {
 			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/3.jpg"} alt="#" /></Link>
 			            <div className="product-badge">
 			              <ul>
-			                <li className="sale-badge bg-green">For Rent</li>
+			                <li className="sale-badge bg-green">For Sale</li>
 			              </ul>
 			            </div>
 			            <div className="product-img-location-gallery">
@@ -273,7 +273,7 @@ class FeaturedItemV1 extends Component {
 			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/4.jpg"} alt="#" /></Link>
 			            <div className="product-badge">
 			              <ul>
-			                <li className="sale-badge bg-green">For Rent</li>
+			                <li className="sale-badge bg-green">For Sale</li>
 			              </ul>
 			            </div>
 			            <div className="product-img-location-gallery">
@@ -355,7 +355,7 @@ class FeaturedItemV1 extends Component {
 			            <Link to="/product-details"><img src={publicUrl+"assets/img/product-3/5.jpg"} alt="#" /></Link>
 			            <div className="product-badge">
 			              <ul>
-			                <li className="sale-badge bg-green">For Rent</li>
+			                <li className="sale-badge bg-green">For Sale</li>
 			              </ul>
 			            </div>
 			            <div className="product-img-location-gallery">

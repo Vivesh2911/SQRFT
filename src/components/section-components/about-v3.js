@@ -13,10 +13,10 @@ class AboutV3 extends Component {
 			    <div className="row">
 			      <div className="col-lg-6 align-self-center">
 			        <div className="about-us-img-wrap about-img-left">
-			          <img src={publicUrl+"assets/img/others/11.png"} alt="About Us Image" />
+			          <img src="https://images.homes.com/listings/215/8567901723-271195651/5886-betty-gloyd-dr-hoffman-estates-il-primaryphoto.jpg" alt="About Us Image" />
 			          <div className="about-us-img-info about-us-img-info-2 about-us-img-info-3 d-none">
 			            <div className="ltn__video-img ltn__animation-pulse1">
-			              <img src={publicUrl+"assets/img/others/8.png"} alt="video popup bg image" />
+			              <img src="https://images.homes.com/listings/215/8567901723-271195651/5886-betty-gloyd-dr-hoffman-estates-il-primaryphoto.jpg" alt="video popup bg image" />
 			              <a className="ltn__video-icon-2 ltn__video-icon-2-border---" href="https://www.youtube.com/embed/X7R-q9rsrtU?autoplay=1&showinfo=0" data-rel="lightcase:myCollection">
 			                <i className="fa fa-play" />
 			              </a>

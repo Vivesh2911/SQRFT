@@ -81,8 +81,8 @@ class Navbar extends Component {
 						<nav>
 						<div className="ltn__main-menu go-top">
 							<ul>
-							<li className="menu-icon"><Link to="/">Home</Link>
-								<ul className="sub-menu menu-pages-img-show">
+							<li className="menu-icon"><Link to="/home-v2">Home</Link>
+								{/* <ul className="sub-menu menu-pages-img-show">
 								<li>
 									<Link to="/">Home Style 01</Link>
 									<img src={publicUrl+"assets/img/home-demos/home-1.jpg"} alt="#" />
@@ -123,11 +123,11 @@ class Navbar extends Component {
 									<Link to="/home-v10">Home Style 10</Link>
 									<img src={publicUrl+"assets/img/home-demos/home-11.jpg"}  alt="#" />
 								</li>
-								</ul>
+								</ul> */}
 							</li>
 							
 							<li className="menu-icon"><Link to="/shop">Property</Link>
-								<ul>
+								{/* <ul>
 									<li><Link to="/shop">Shop</Link></li>
 									<li><Link to="/shop-grid">Shop Grid</Link></li>
 									<li><Link to="/shop-left-sidebar">Shop Left sidebar</Link></li>
@@ -138,18 +138,18 @@ class Navbar extends Component {
 									<li><Link to="/my-account">My Account</Link></li>
 									<li><Link to="/login">Sign in</Link></li>
 									<li><Link to="/register">Register</Link></li>
-								</ul>
+								</ul> */}
 							</li>
-							<li className="menu-icon"><Link to="/blog-grid">News</Link>
+							<li className="menu-icon"><Link to="/blog-grid">Projects</Link>
 								<ul>
-									<li><Link to="/blog">News</Link></li>
-									<li><Link to="/blog-grid">News Grid</Link></li>
-									<li><Link to="/blog-left-sidebar">News Left sidebar</Link></li>
+									<li><Link to="/blog">Commercial</Link></li>
+									<li><Link to="/blog-grid">Residental</Link></li>
+									{/* <li><Link to="/blog-left-sidebar">News Left sidebar</Link></li>
 									<li><Link to="/blog-right-sidebar">News Right sidebar</Link></li>
-									<li><Link to="/blog-details">News details</Link></li>
+									<li><Link to="/blog-details">News details</Link></li> */}
 								</ul>
 							</li>
-							<li className="menu-icon"><Link to="#">Pages</Link>
+							<li className="menu-icon"><Link to="#">Blogs</Link>
 								<ul className="mega-menu">
 									<li><a href="#">Inner Pages</a>
 										<ul>
@@ -185,7 +185,9 @@ class Navbar extends Component {
 									</li>
 								</ul>
 							</li>
-							<li><Link to="/contact">Contact</Link></li>
+							<li><Link to="/contact">About Us</Link></li>
+							<li className="menu-icon"><Link to="/CareerGrid">Career</Link>
+								</li>
 							</ul>
 						</div>
 						</nav>

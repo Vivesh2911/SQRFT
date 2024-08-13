@@ -68,7 +68,7 @@ class ShopGridV1 extends Component {
 										<div className="product-info">
 											<div className="product-badge">
 											<ul>
-												<li className="sale-badg">For Rent</li>
+												<li className="sale-badg">For Sale</li>
 											</ul>
 											</div>
 											<h2 className="product-title go-top"><Link to="/product-details">New Apartment Nice View</Link></h2>
@@ -196,7 +196,7 @@ class ShopGridV1 extends Component {
 										<div className="product-info">
 											<div className="product-badge">
 											<ul>
-												<li className="sale-badg">For Rent</li>
+												<li className="sale-badg">For Sale</li>
 											</ul>
 											</div>
 											<h2 className="product-title go-top"><Link to="/product-details">New Apartment Nice View</Link></h2>
@@ -260,7 +260,7 @@ class ShopGridV1 extends Component {
 										<div className="product-info">
 											<div className="product-badge">
 											<ul>
-												<li className="sale-badg">For Rent</li>
+												<li className="sale-badg">For Sale</li>
 											</ul>
 											</div>
 											<h2 className="product-title go-top"><Link to="/product-details">New Apartment Nice View</Link></h2>
@@ -324,7 +324,7 @@ class ShopGridV1 extends Component {
 										<div className="product-info">
 											<div className="product-badge">
 											<ul>
-												<li className="sale-badg">For Rent</li>
+												<li className="sale-badg">For Sale</li>
 											</ul>
 											</div>
 											<h2 className="product-title go-top"><Link to="/product-details">New Apartment Nice View</Link></h2>
@@ -388,7 +388,7 @@ class ShopGridV1 extends Component {
 										<div className="product-info">
 											<div className="product-badge">
 											<ul>
-												<li className="sale-badg">For Rent</li>
+												<li className="sale-badg">For Sale</li>
 											</ul>
 											</div>
 											<h2 className="product-title go-top"><Link to="/product-details">New Apartment Nice View</Link></h2>
@@ -464,7 +464,7 @@ class ShopGridV1 extends Component {
 											<div className="product-badge-price">
 											<div className="product-badge">
 												<ul>
-												<li className="sale-badg">For Rent</li>
+												<li className="sale-badg">For Sale</li>
 												</ul>
 											</div>
 											<div className="product-price">

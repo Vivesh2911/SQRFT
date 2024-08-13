@@ -15,8 +15,8 @@ class ApartmentV2 extends Component {
 			    <div className="row">
 			      <div className="col-lg-12">
 			        <div className="section-title-area ltn__section-title-2--- text-center">
-			          <h6 className="section-subtitle section-subtitle-2--- ltn__secondary-color">Apartment Sketch</h6>
-			          <h1 className="section-title">Apartments Plan</h1>
+			          <h6 className="section-subtitle section-subtitle-2--- ltn__secondary-color">Residential Sketch</h6>
+			          <h1 className="section-title">Residential Plan</h1>
 			        </div>
 			        <div className="ltn__tab-menu ltn__tab-menu-3 ltn__tab-menu-top-right-- text-uppercase--- text-center">
 			          <div className="nav">

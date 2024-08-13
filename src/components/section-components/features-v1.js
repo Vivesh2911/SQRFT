@@ -27,9 +27,9 @@ class FeaturesV1 extends Component {
 			            <img src={publicUrl+"assets/img/icons/icon-img/21.png"} alt="#" />
 			          </div>
 			          <div className="ltn__feature-info">
-			            <h3><Link to="/service-details">Buy a home</Link></h3>
+			            <h3><Link to="/service-details">Buy a Commercial</Link></h3>
 			            <p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
-			            <Link className="ltn__service-btn" to="/service-details">Find A Home <i className="flaticon-right-arrow" /></Link>
+			            <Link className="ltn__service-btn" to="/service-details">Find A Commercial <i className="flaticon-right-arrow" /></Link>
 			          </div>
 			        </div>
 			      </div>
@@ -39,9 +39,9 @@ class FeaturesV1 extends Component {
 			            <img src={publicUrl+"assets/img/icons/icon-img/22.png"} alt="#" />
 			          </div>
 			          <div className="ltn__feature-info">
-			            <h3><Link to="/service-details">Rent a home</Link></h3>
+			            <h3><Link to="/service-details">Rent a Residential</Link></h3>
 			            <p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
-			            <Link className="ltn__service-btn" to="/service-details">Find A Home <i className="flaticon-right-arrow" /></Link>
+			            <Link className="ltn__service-btn" to="/service-details">Find A Residential <i className="flaticon-right-arrow" /></Link>
 			          </div>
 			        </div>
 			      </div>
@@ -51,9 +51,9 @@ class FeaturesV1 extends Component {
 			            <img src={publicUrl+"assets/img/icons/icon-img/23.png"} alt="#" />
 			          </div>
 			          <div className="ltn__feature-info">
-			            <h3><Link to="/service-details">Sell a home</Link></h3>
+			            <h3><Link to="/service-details">Sell a Residential</Link></h3>
 			            <p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
-			            <Link className="ltn__service-btn" to="/service-details">Find A Home <i className="flaticon-right-arrow" /></Link>
+			            <Link className="ltn__service-btn" to="/service-details">Find A Residential <i className="flaticon-right-arrow" /></Link>
 			          </div>
 			        </div>
 			      </div>

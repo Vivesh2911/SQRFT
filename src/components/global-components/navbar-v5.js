@@ -205,8 +205,8 @@ class NavbarV5 extends Component {
 								<li><Link to="/location">Google Map Locations</Link></li>
 								</ul>
 							</li>
-							<li className="menu-icon"><Link to="/shop">Shop</Link>
-								<ul>
+							<li className="menu-icon"><Link to="/shop">Properties</Link>
+								{/* <ul>
 									<li><Link to="/shop">Shop</Link></li>
 									<li><Link to="/shop-grid">Shop Grid</Link></li>
 									<li><Link to="/shop-left-sidebar">Shop Left sidebar</Link></li>
@@ -217,7 +217,7 @@ class NavbarV5 extends Component {
 									<li><Link to="/my-account">My Account</Link></li>
 									<li><Link to="/login">Sign in</Link></li>
 									<li><Link to="/register">Register</Link></li>
-								</ul>
+								</ul> */}
 							</li>
 							<li className="menu-icon"><Link to="/blog-grid">News</Link>
 								<ul>

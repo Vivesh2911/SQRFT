@@ -18,13 +18,20 @@ class Sidebar extends Component {
 				<h4 className="ltn__widget-title">Property Type</h4>
 				<ul>
 				<li>
-					<label className="checkbox-item">House
+					<label className="checkbox-item">Commercial
+					<input type="checkbox" defaultChecked="checked" />
+					<span className="checkmark" />
+					</label>
+					<span className="categorey-no">3,834</span>
+				</li>
+				<li>
+					<label className="checkbox-item">Residential
 					<input type="checkbox" defaultChecked="checked" />
 					<span className="checkmark" />
 					</label>
 					<span className="categorey-no">3,924</span>
 				</li>
-				<li>
+				{/* <li>
 					<label className="checkbox-item">Single Family
 					<input type="checkbox" />
 					<span className="checkmark" />
@@ -36,8 +43,8 @@ class Sidebar extends Component {
 					<input type="checkbox" />
 					<span className="checkmark" />
 					</label>
-					<span className="categorey-no">2,912</span>
-				</li>
+					<span className="categorey-no">2,912</span> */}
+				{/* </li> */}
 				<li>
 					<label className="checkbox-item">Office Villa
 					<input type="checkbox" />

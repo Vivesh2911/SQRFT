@@ -47,6 +47,7 @@ import AddListing from './components/add-listing';
 import Wishlist from './components/wishlist';
 import OrderTracking from './components/order-tracking';
 import History from './components/history';
+import CareerGrid from './components/career-components/CareerGrid';
 
 
 class Root extends Component {
@@ -102,6 +103,7 @@ class Root extends Component {
                         <Route path="/wishlist" component={ Wishlist } />
                         <Route path="/order-tracking" component={ OrderTracking } />
                         <Route path="/history" component={ History } />
+                        <Route path='/CareerGrid' component={ CareerGrid}/>
 	                </Switch>
 	                </div>
                 </HashRouter>

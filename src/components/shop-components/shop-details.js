@@ -19,7 +19,7 @@ class ShopDetails extends Component {
 							<Link to="#">Featured</Link>
 							</li>
 							<li className="ltn__blog-category">
-							<Link className="bg-orange" to="#">For Rent</Link>
+							<Link className="bg-orange" to="#">For Sale</Link>
 							</li>
 							<li className="ltn__blog-date">
 							<i className="far fa-calendar-alt" />May 19, 2021
